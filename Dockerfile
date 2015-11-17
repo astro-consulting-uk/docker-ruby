@@ -1,5 +1,5 @@
 FROM stackbrew/ubuntu:trusty
-MAINTAINER Andy Gray <twhc.consulting@gmail.com>
+MAINTAINER Andy Gray <astro.consulting.uk@gmail.com>
 
 RUN apt-get update -qq
 RUN apt-get install -y ruby ruby-dev ruby-bundler
