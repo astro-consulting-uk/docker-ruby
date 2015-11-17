@@ -1,4 +1,4 @@
-FROM stackbrew/ubuntu:trusty
+FROM astroconsulting/docker-ubuntu
 MAINTAINER Andy Gray <astro.consulting.uk@gmail.com>
 
 RUN apt-get update -qq
